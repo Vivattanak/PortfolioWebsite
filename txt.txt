@@ -1,0 +1,111 @@
+5 Sections:
+- About Me
+
+Current: Computer Science student at Eotvos Lorand University, Graduating in June 2026
+
+I am pursuing my Bachelor's degree in Computer Science and I enjoy building practical software products that help people in real life situations.
+
+My interests include software engineering, AI, machine learning, neural networks, and data sceince. I am also actively exploring recommendation systems and data-driven projects.
+
+Software Engineering
+Product Development
+AI and Machine Learning
+Neural Networks
+Data Science
+I am also enthusiastic about any opportunities that connect software development, research, and real-world impact. If you have any questions
+please feel free to contact me.
+
+- Information about Coding Activities(Projects):
+
+Projects
+Car Listing Website | PHP, JS, HTML, CSS, JSON
+• Developed a multi-page car listing website (15 interconnected webpages)
+Dec 2024– Jan 2025
+• Implemented user authentication with a local JSON-based database, dynamic car listings rendered from structured
+JSON data
+• Added form validation and thoroughly tested for invalid input handling, header protection, restricted pages using
+PHP
+• Designed responsive layout and consistent navigation structure across all pages
+Planet Zoo | Unity, YAML, CSharp, GitLab/Git
+• Developed a 3D zoo management simulation game in Unity (CSharp) within a team of 3
+Feb 2025– May 2025
+• Used GitLab for version control and collaborative development, contributed to writing automated tests and built a
+CI/CD pipeline
+• Implemented core gameplay systems using object-oriented design principles
+Game Development in Java, and JS | Java, MYSQL, Javascript
+Feb 2025– May 2025
+• Developed a my own take on the classic snake game using Java GUI, made a pipe-connecting game(railroads) usng
+Javascript, rubix clock, etc.
+• Implemented a database query system using MYSQL, for leaderboard systems
+Books Recommendation System Models- In Progress | Python
+Feb 2026– Present
+• Currently working creating recommendation system models, collaborative filtering, content-based, etc
+• Using Python, NumPy, pandas, public Kaggle Dataset(Book-Crossing)Projects
+Car Listing Website | PHP, JS, HTML, CSS, JSON
+• Developed a multi-page car listing website (15 interconnected webpages)
+Dec 2024– Jan 2025
+• Implemented user authentication with a local JSON-based database, dynamic car listings rendered from structured
+JSON data
+• Added form validation and thoroughly tested for invalid input handling, header protection, restricted pages using
+PHP
+• Designed responsive layout and consistent navigation structure across all pages
+Planet Zoo | Unity, YAML, CSharp, GitLab/Git
+• Developed a 3D zoo management simulation game in Unity (CSharp) within a team of 3
+Feb 2025– May 2025
+• Used GitLab for version control and collaborative development, contributed to writing automated tests and built a
+CI/CD pipeline
+• Implemented core gameplay systems using object-oriented design principles
+Game Development in Java, and JS | Java, MYSQL, Javascript
+Feb 2025– May 2025
+• Developed a my own take on the classic snake game using Java GUI, made a pipe-connecting game(railroads) usng
+Javascript, rubix clock, etc.
+• Implemented a database query system using MYSQL, for leaderboard systems
+Books Recommendation System Models- In Progress | Python
+Feb 2026– Present
+• Currently working creating recommendation system models, collaborative filtering, content-based, etc
+• Using Python, NumPy, pandas, public Kaggle Dataset(Book-Crossing)
+
+- Information about Academic History(Experiences + University)
+
+Education
+E¨otv¨os Lor´and University
+Bachelor of Computer Science
+CIA First International High School
+Highschool
+
+Experience
+Budapest, Hungary
+Sep. 2023– Present
+Phnom Penh, Cambodia
+Sep. 2018– Jun. 2022
+Undergraduate Research Assistant
+E¨otv¨os Lor´and University
+Feb 2026– Present
+ELTE Faculty Of Informatics
+• Worked on various application-oriented research projects in which the theoretical research problems are inspired by
+direct practical applications.
+• We are learning how to use MatLab, Python, PyTorch, C++, NVidia Falcor, HLSL
+Web Development Intern- Remote
+Limelight Renhold
+Feb. 2026– Present
+Oslo, Norway
+• Developed interactive and visually engaging web projects, gaining experience in create webpages
+• Implementing advanced visual effects such as 3D flip interaction, parallax scrolling, and more, under the
+supervision of experienced mentors
+
+- Your Favorites
+
+Some information about me: I love reading books. This can include books from a variety of topics, one of my favorite authors right now 
+Brandon Sandersons. I also like playing board games, I know how to play chess, mahjong, catan, arknova, and many more. I also love
+playing/watching football.
+
+- Skills
+
+Languages: Java, Python, C/C++, SQL, JavaScript, HTML/CSS
+Frameworks: Linux, Terminal, YAML, JUnit, WordPress, FastAPI, Flask, PHP
+Developer Tools: Git, Gitlab, VS Code, Visual Studio, NETBeans, Unity
+Libraries: pandas, NumPy, Matplotlib, TensorFlow, scikit-learn
+
+- Contact
+email: h2g7bj@inf.elte.hu
+phone: +36 20 5288655
