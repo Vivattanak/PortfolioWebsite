@@ -1,3 +1,31 @@
+# Personal Portfolio Website
+
+This is a single-page personal portfolio site built from a Bootstrap-based template and customized to present Sreang Vivattanak's profile, projects, academic background, skills, and contact details.
+
+## Sections
+
+- About Me
+- Projects / Coding Activities
+- Academic History
+- Favorites and Skills
+- Contact
+
+## Tech Stack
+
+- HTML5
+- CSS (Bootstrap + custom styles)
+- JavaScript (jQuery + Bootstrap bundle)
+
+## Run Locally
+
+Open `index.html` in a web browser, or use a local server for best results:
+
+- VS Code Live Server, or
+- `python -m http.server` then visit `http://localhost:8000`
+
+## Note
+
+The page content is tailored as a personal/academic portfolio and was last updated on March 23, 2026.
 # Responsive-web-design-Website
 **Mandatory Task!**
 
